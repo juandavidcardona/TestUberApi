@@ -1,0 +1,6 @@
+framework module Pods_TestUberApiUITests {
+  umbrella header "Pods-TestUberApiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
